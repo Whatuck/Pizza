@@ -1,3 +1,3 @@
-# pizzeria
+# pizza
 
 A new Flutter project.
